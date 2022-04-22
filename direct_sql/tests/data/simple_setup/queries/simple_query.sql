@@ -1,0 +1,1 @@
+SELECT user_id, name, age FROM users WHERE name = :name;
